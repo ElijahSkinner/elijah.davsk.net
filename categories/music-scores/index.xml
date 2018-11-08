@@ -12,20 +12,35 @@
     
     
     <item>
+      <title>Amazing Grace</title>
+      <link>https://elijah.davsk.net/2018/11/amazing-grace/</link>
+      <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
+      
+      <guid>https://elijah.davsk.net/2018/11/amazing-grace/</guid>
+      <description>&lt;h2 id=&#34;amazing-grace&#34;&gt;Amazing Grace&lt;/h2&gt;
+
+&lt;p&gt;&lt;audio controls&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541709125/Amazing_Grace.mp3&#34; type=&#34;audio/ogg&#34;&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541709125/Amazing_Grace.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Perry the Platypus</title>
       <link>https://elijah.davsk.net/2018/11/perry-the-platypus/</link>
       <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
       
       <guid>https://elijah.davsk.net/2018/11/perry-the-platypus/</guid>
-      <description>&lt;h2 id=&#34;perry-the-platypus-jazz-arrangement&#34;&gt;Perry the Platypus Jazz Arrangement&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;perry-the-platypus-jazz-arrangement-thumbnailimage-https-lh3-googleusercontent-com-grqvn7ma4ousjhg0lv-jzvmuch66xvgtwzr6zvuugwl6adat05txa58nwzfsje1zycw8l4r9eb9-0v4a-oyn0wasl9jctcw73t9kk6t5-21kt35bpwoyn7whxb6noylooihzjfldcw-w2400&#34;&gt;Perry the Platypus Jazz Arrangement &lt;thumbnailImage: https://lh3.googleusercontent.com/GrQVN7ma4Ousjhg0LV-jzvmuch66xvGtWzr6ZVUUgwL6Adat05txa58nWzFSje1zYCw8L4R9EB9_0V4a-OyN0Wasl9JctCW73t9Kk6t5_21kt35BpWOyn7WhxB6nOYlOoiHZJFlDcw=w2400&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;audio controls&gt;
   &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541705727/Perry_the_Platypus.mp3&#34; type=&#34;audio/ogg&#34;&gt;
   &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541705727/Perry_the_Platypus.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 Your browser does not support the audio element.
-&lt;/audio&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/audio&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folk on Elijah Skinner - Music Composer</title>
+    <link>https://elijah.davsk.net/categories/folk/</link>
+    <description>Recent content in Folk on Elijah Skinner - Music Composer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Nov 2018 21:45:19 -0500</lastBuildDate>
+    
+	<atom:link href="https://elijah.davsk.net/categories/folk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazing Grace</title>
+      <link>https://elijah.davsk.net/2018/11/amazing-grace/</link>
+      <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
+      
+      <guid>https://elijah.davsk.net/2018/11/amazing-grace/</guid>
+      <description>&lt;h2 id=&#34;amazing-grace&#34;&gt;Amazing Grace&lt;/h2&gt;
+
+&lt;p&gt;&lt;audio controls&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541709125/Amazing_Grace.mp3&#34; type=&#34;audio/ogg&#34;&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541709125/Amazing_Grace.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

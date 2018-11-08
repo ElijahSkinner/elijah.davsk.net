@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://elijah.davsk.net/2018/11/amazing-grace/</loc>
+    <lastmod>2018-11-07T21:45:19-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elijah.davsk.net/2018/11/perry-the-platypus/</loc>
     <lastmod>2018-11-07T21:45:19-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elijah.davsk.net/2013/02/image-gallery-showcase/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+    <loc>https://elijah.davsk.net/tags/</loc>
+    <lastmod>2018-11-07T21:45:19-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -29,14 +35,8 @@
   </url>
   
   <url>
-    <loc>https://elijah.davsk.net/categories/features/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elijah.davsk.net/tags/image-gallery/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+    <loc>https://elijah.davsk.net/categories/folk/</loc>
+    <lastmod>2018-11-07T21:45:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://elijah.davsk.net/tags/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+    <loc>https://elijah.davsk.net/tags/sab/</loc>
+    <lastmod>2018-11-07T21:45:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elijah.davsk.net/categories/tranquilpeak/</loc>
-    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+    <loc>https://elijah.davsk.net/tags/</loc>
+    <lastmod>2018-11-07T21:45:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
