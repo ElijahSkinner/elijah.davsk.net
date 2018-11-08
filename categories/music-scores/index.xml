@@ -17,7 +17,15 @@
       <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
       
       <guid>https://elijah.davsk.net/2018/11/perry-the-platypus/</guid>
-      <description>&lt;h2 id=&#34;perry-the-platypus-jazz-arrangement&#34;&gt;Perry the Platypus Jazz Arrangement&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;perry-the-platypus-jazz-arrangement&#34;&gt;Perry the Platypus Jazz Arrangement&lt;/h2&gt;
+
+&lt;p&gt;&lt;audio controls&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541705727/Perry_the_Platypus.mp3&#34; type=&#34;audio/ogg&#34;&gt;
+  &lt;source src=&#34;https://res.cloudinary.com/elijahskinner/video/upload/v1541705727/Perry_the_Platypus.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
