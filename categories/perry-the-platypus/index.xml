@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elijah Skinner - Music Composer</title>
-    <link>https://elijah.davsk.net/</link>
-    <description>Recent content on Elijah Skinner - Music Composer</description>
+    <title>Perry the Platypus on Elijah Skinner - Music Composer</title>
+    <link>https://elijah.davsk.net/categories/perry-the-platypus/</link>
+    <description>Recent content in Perry the Platypus on Elijah Skinner - Music Composer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Nov 2018 21:45:19 -0500</lastBuildDate>
     
-	<atom:link href="https://elijah.davsk.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elijah.davsk.net/categories/perry-the-platypus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://elijah.davsk.net/2018/11/perry-the-platypus/</guid>
       <description>&lt;h2 id=&#34;perry-the-platypus-jazz-arrangement&#34;&gt;Perry the Platypus Jazz Arrangement&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>Image gallery showcase</title>
-      <link>https://elijah.davsk.net/2013/02/image-gallery-showcase/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://elijah.davsk.net/2013/02/image-gallery-showcase/</guid>
-      <description>&lt;p&gt;And here is the image gallery!
-&lt;/p&gt;</description>
     </item>
     
   </channel>
