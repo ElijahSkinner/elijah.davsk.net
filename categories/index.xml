@@ -6,14 +6,24 @@
     <description>Recent content in Categories on Elijah Skinner - Music Composer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 09 Nov 2018 15:00:05 -0500</lastBuildDate>
     
 	<atom:link href="https://elijah.davsk.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://elijah.davsk.net/categories/</link>
+      <pubDate>Fri, 09 Nov 2018 15:00:05 -0500</pubDate>
+      
+      <guid>https://elijah.davsk.net/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Folk</title>
       <link>https://elijah.davsk.net/categories/folk/</link>
-      <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
+      <pubDate>Thu, 04 Apr 2019 15:33:19 -0500</pubDate>
       
       <guid>https://elijah.davsk.net/categories/folk/</guid>
       <description></description>
@@ -22,7 +32,7 @@
     <item>
       <title>Music Scores</title>
       <link>https://elijah.davsk.net/categories/music-scores/</link>
-      <pubDate>Wed, 07 Nov 2018 21:45:19 -0500</pubDate>
+      <pubDate>Thu, 04 Apr 2019 15:33:19 -0500</pubDate>
       
       <guid>https://elijah.davsk.net/categories/music-scores/</guid>
       <description></description>
